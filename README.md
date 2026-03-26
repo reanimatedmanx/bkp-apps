@@ -16,6 +16,8 @@ A backup list of apps/software to not forget...
 - [Eagle.cool]() 
 - [Unlicense]()
 - [Rawtherapee]()
+- [krokiet]()
+- 
 
 ## Password & Secret Management
 
@@ -27,7 +29,12 @@ A backup list of apps/software to not forget...
 
 - [Powertools]()  
 - [Openchat]()  
-- [jan.ai]()  
+- [jan.ai]()
+- [n8n]()
+
+## Office & Life 
+
+- [sure]()
 
 ## Programming Languages
 
@@ -60,11 +67,21 @@ A backup list of apps/software to not forget...
 - [Electron]()
 - [x64dbg]()
 - [UniExtract]()
+- [GitHub / GH CLI]
+- [nvim]()
+- [CMake]()
+- [PE Bear]()
+- [mc.exe]()
+- [micro]()
+- [Graal VM]()
+- [Umodel]()
+- [cloc]()
 
 ## Creative
 
 - [DrawIO]()
 - [ComfyUI]()
+- [Penpot]()
 - [Adobe / Photoshop]()
 - [Pxiologic / ZBrush]()
 - [Lightroom]()
@@ -80,4 +97,10 @@ A backup list of apps/software to not forget...
 ## Entertainment
 
 - [Playnite]()
+- [Winamp]()
+
+## Drivers / Special
+
+- [Focusrite]()
+- 
 
