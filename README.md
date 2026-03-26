@@ -76,6 +76,8 @@ A backup list of apps/software to not forget...
 - [Graal VM]()
 - [Umodel]()
 - [cloc]()
+- [CPUZ]()
+- [HWiNFO]()
 
 ## Creative
 
