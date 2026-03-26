@@ -25,9 +25,9 @@ A backup list of apps/software to not forget...
 
 ## AI / Assistents / Automation
 
-- [Powertools]()
-- [Openchat]()
-- [jan.ai]()
+- [Powertools]()  
+- [Openchat]()  
+- [jan.ai]()  
 
 ## Programming Languages
 
