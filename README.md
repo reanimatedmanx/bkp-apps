@@ -6,22 +6,40 @@ A backup list of apps/software to not forget...
 
 - [NixOS]()
 
+## Internet Browsing
+
+- [Chromium]()
+
+## File & Asset Management
+
+- [Yazi]()
+- [Eagle.cool]() 
+- [Unlicense]()
+- [Rawtherapee]()
+
+## Password & Secret Management
+
+- [Vault]()
+- [1Password]()
+- [KeePassXC]()
+
 ## AI / Assistents / Automation
 
 - [Powertools]()
-- [Openchat)()
-- [jan.ai)()
+- [Openchat]()
+- [jan.ai]()
 
 ## Programming Languages
 
 - [Zig]()
 - [Rust]()
-- [DIE]()
-- [MMEX]()
+- [Python]()
 
 ## Libs / Frameworks
 
+- [NextJS]()
 - [Traefik]()
+- [Skipper]()
 - [Flutter]()
 
 ## Development & Debugging
@@ -32,9 +50,20 @@ A backup list of apps/software to not forget...
 - [UniExtract]()
 - [Known]()
 - [Apache / Tomcat]()
+- [CMder]()
+- [DIE]()
+- [MMEX]()
+- [Notepad++]()
+- [ScyllaHide]()
+- [Themidie]()
+- [Ghidra]()
+- [Electron]()
+- [x64dbg]()
+- [UniExtract]()
 
 ## Creative
 
+- [DrawIO]()
 - [ComfyUI]()
 - [Adobe / Photoshop]()
 - [Pxiologic / ZBrush]()
@@ -43,10 +72,12 @@ A backup list of apps/software to not forget...
 - [FSpy]()
 - [Krita AI Diffusion Plugin]()
 
-## File & Asset Management
+## Game Engines
 
-- [Eagle.cool]() 
-- [Unlicense]()
-- [Rawtherapee]()
+- [Unreal Engine]()
+- [Godot]()
 
+## Entertainment
+
+- [Playnite]()
 
